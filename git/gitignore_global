@@ -1,0 +1,7 @@
+# Este ignore global existe para omitir artefactos locales que no forman parte
+# de ningún proyecto. Se mantiene mínimo para no ocultar archivos relevantes
+# por accidente; las reglas propias de un proyecto pertenecen a ese proyecto.
+.DS_Store
+Thumbs.db
+*~
+*.swp

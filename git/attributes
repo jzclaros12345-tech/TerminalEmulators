@@ -1,0 +1,4 @@
+# Este archivo existe para que el repositorio conserve texto portable entre
+# sistemas. Se modifica solo si un tipo de archivo requiere una política de
+# atributos específica; evita diffs causados únicamente por finales de línea.
+* text=auto eol=lf

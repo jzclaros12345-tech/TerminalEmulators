@@ -1,0 +1,13 @@
+# Configuración compartible de Git.
+# Existe para establecer convenciones seguras y reproducibles sin incluir la
+# identidad del usuario ni secretos. Modifica estas opciones solo cuando la
+# decisión afecte a todos los equipos que usen este repositorio.
+
+[init]
+	defaultBranch = main
+
+[fetch]
+	prune = true
+
+[pull]
+	ff = only

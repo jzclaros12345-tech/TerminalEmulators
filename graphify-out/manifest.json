@@ -1,0 +1,162 @@
+{
+  "Dotfiles.md": {
+    "mtime": 1785664535.036287,
+    "ast_hash": "364c8451717cc92b924aedd43516f917",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1785943421.156958,
+    "ast_hash": "ca89837db058e9098a0481d70402be0f",
+    "semantic_hash": ""
+  },
+  "RoadmapMigraci\u00f3n.md": {
+    "mtime": 1785665906.4709795,
+    "ast_hash": "acc21a2aa29f2ab0b95ef5c224896f86",
+    "semantic_hash": ""
+  },
+  "architecture.md": {
+    "mtime": 1785665503.5137985,
+    "ast_hash": "b4c8c2a63ad039db868f8614d038643a",
+    "semantic_hash": ""
+  },
+  "architectureFinal.md": {
+    "mtime": 1785943273.549102,
+    "ast_hash": "451de5210a2c45af9a8bdd92b38dc150",
+    "semantic_hash": ""
+  },
+  "audit/2026-08-02-terminal-audit.md": {
+    "mtime": 1785663900.0645006,
+    "ast_hash": "55367fc4870a891478e88ce416f8c7d6",
+    "semantic_hash": ""
+  },
+  "audit/phase-1-rebuild-audit.md": {
+    "mtime": 1785943370.5000784,
+    "ast_hash": "2972c99942cb443e5bfeb647e8a7b775",
+    "semantic_hash": ""
+  },
+  "bootstrap/README.md": {
+    "mtime": 1785943374.776153,
+    "ast_hash": "eb01c1a79d9d9b4717c285e6170fdde0",
+    "semantic_hash": ""
+  },
+  "comandosTeclado.md": {
+    "mtime": 1786039319.3527882,
+    "ast_hash": "238891c9c200248a5cad4ba2a3684f2c",
+    "semantic_hash": ""
+  },
+  "docs/architecture.md": {
+    "mtime": 1785943421.3389614,
+    "ast_hash": "1da7f4d20a584762ed1d43d50ad06359",
+    "semantic_hash": ""
+  },
+  "docs/decisions.md": {
+    "mtime": 1785943880.3834932,
+    "ast_hash": "4afb4e7d9ccdafb60b922e0a0dd0cc6c",
+    "semantic_hash": ""
+  },
+  "docs/installation.md": {
+    "mtime": 1785943369.7600656,
+    "ast_hash": "473c114fdec4979eeb80e2edc090f4b7",
+    "semantic_hash": ""
+  },
+  "docs/keybindings.md": {
+    "mtime": 1785943880.2234907,
+    "ast_hash": "3384d3cc6fecbcce07984a19ae831fc8",
+    "semantic_hash": ""
+  },
+  "docs/migrate-terminal.md": {
+    "mtime": 1785943370.0450704,
+    "ast_hash": "1b7327a936cf6e0585818d70630f0179",
+    "semantic_hash": ""
+  },
+  "docs/roadmap.md": {
+    "mtime": 1785944052.2228036,
+    "ast_hash": "fec442510a723fb3c728862c0e758307",
+    "semantic_hash": ""
+  },
+  "docs/troubleshooting.md": {
+    "mtime": 1785943370.3530757,
+    "ast_hash": "26ad34efeea0d2cd2195ca9727689bce",
+    "semantic_hash": ""
+  },
+  "fonts/README.md": {
+    "mtime": 1785943373.9871395,
+    "ast_hash": "644eeb2b83069954fc9d2ff9aeadae89",
+    "semantic_hash": ""
+  },
+  "git/README.md": {
+    "mtime": 1785943881.0095031,
+    "ast_hash": "2518d8f9b26c4277f28e68b8ffe01036",
+    "semantic_hash": ""
+  },
+  "git/hooks/README.md": {
+    "mtime": 1785943882.1185207,
+    "ast_hash": "8ea4d8febe3f55e6047ceda2d23a49bc",
+    "semantic_hash": ""
+  },
+  "legacy/README.md": {
+    "mtime": 1785943370.7730832,
+    "ast_hash": "fd5d4510dc58f786bd7a4351c1ee4be2",
+    "semantic_hash": ""
+  },
+  "scripts/README.md": {
+    "mtime": 1785943374.476148,
+    "ast_hash": "080d0c3c3fabe068b9e86c6578d2f670",
+    "semantic_hash": ""
+  },
+  "shell/README.md": {
+    "mtime": 1785943371.339093,
+    "ast_hash": "44853298f305e0490aeb04867381d3f3",
+    "semantic_hash": ""
+  },
+  "starship/README.md": {
+    "mtime": 1785943371.619098,
+    "ast_hash": "66d515a1ad280b288df35faabf128681",
+    "semantic_hash": ""
+  },
+  "terminal/README.md": {
+    "mtime": 1785943371.8781025,
+    "ast_hash": "00ee82ab5380a7405980064e39df0ff8",
+    "semantic_hash": ""
+  },
+  "terminal/alacritty/README.md": {
+    "mtime": 1785943372.1131067,
+    "ast_hash": "546527769e115b9502b9e8ad97722219",
+    "semantic_hash": ""
+  },
+  "terminal/ghostty/README.md": {
+    "mtime": 1785943372.6141155,
+    "ast_hash": "41f9f2b75f947491397fe0769e8fdcf7",
+    "semantic_hash": ""
+  },
+  "terminal/gnome-terminal/README.md": {
+    "mtime": 1785943372.9201207,
+    "ast_hash": "a9de845905c9aa4899204d48b02ce7db",
+    "semantic_hash": ""
+  },
+  "terminal/kitty/README.md": {
+    "mtime": 1785943373.2141259,
+    "ast_hash": "dc7f79d9b1cde9fbf0a6868a01fba518",
+    "semantic_hash": ""
+  },
+  "terminal/wezterm/README.md": {
+    "mtime": 1785943373.4831305,
+    "ast_hash": "db6565d8356ef41e055b372797248cb3",
+    "semantic_hash": ""
+  },
+  "terminal/xfce-terminal/README.md": {
+    "mtime": 1785943373.733135,
+    "ast_hash": "6bda51681c98bac0f36a06457ced02bc",
+    "semantic_hash": ""
+  },
+  "tmux/README.md": {
+    "mtime": 1785943879.739483,
+    "ast_hash": "b465b92024d5dbaab4c5d6c876a92c8a",
+    "semantic_hash": ""
+  },
+  "tmux/validation.md": {
+    "mtime": 1785944051.9657977,
+    "ast_hash": "f86a09ec228daee6c74bc1b461c3dc9d",
+    "semantic_hash": ""
+  }
+}
